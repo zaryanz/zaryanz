@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 ### Tools
-![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-000000?style=flat&logo=Xcode&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=218C21)
 ![VS_Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
