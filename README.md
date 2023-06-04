@@ -1,17 +1,17 @@
-## Hi, I'm Aryan
-- :pager: Electronics student at IIIT-B
-- :computer: Full stack web developer
+## Hi, I'm Aryan Singh
+- :pager: IIIT-B ECE '23
+- :computer: Full stack web/mobile developer
 - :joystick: Game dev enthusiast
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
-![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua)
+![Swift](https://img.shields.io/badge/-Lua-000000?style=flat&logo=swift)
 
 ### Tech Stack
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![React/React Native](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
