@@ -1,6 +1,6 @@
 ## Hi, I'm Aryan Singh
-- :computer: Full stack web/mobile developer
-- :pager: IIIT-B ECE '23
+- :computer: Full stack (MERN) web/mobile developer
+- :mortar_board: IIIT-B ECE '23
 - :joystick: Game dev enthusiast
 
 ### Languages
