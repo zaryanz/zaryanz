@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 ### Tools
-![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=flat&logo=android-studio&logoColor=3DDC84)
 ![XCode](https://img.shields.io/badge/Xcode-000000?style=flat&logo=Xcode&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=218C21)
 ![VS_Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
