@@ -1,13 +1,13 @@
 ## Hi, I'm Aryan Singh
-- :pager: IIIT-B ECE '23
 - :computer: Full stack web/mobile developer
+- :pager: IIIT-B ECE '23
 - :joystick: Game dev enthusiast
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
-![Swift](https://img.shields.io/badge/-Lua-000000?style=flat&logo=swift)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
 ### Tech Stack
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=node.js)
