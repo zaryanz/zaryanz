@@ -1,5 +1,5 @@
 ## Hi, I'm Aryan Singh
-- :computer: Full stack (MERN) web/mobile developer
+- :computer: Full stack (MERN) web/mobile app developer
 - :joystick: Game dev enthusiast
 - :mortar_board: IIIT-B ECE '23
 
