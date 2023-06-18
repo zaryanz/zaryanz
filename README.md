@@ -26,4 +26,4 @@
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=218C21)
 ![VS_Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=zaryanz&theme=highcontrast&show_icons=true&count_private=true)
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=zaryanz&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
