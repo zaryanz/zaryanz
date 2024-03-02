@@ -13,7 +13,7 @@
 
 ### Tech Stack
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=node.js)
-![Nodejs](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
