@@ -1,8 +1,3 @@
-## Hi, I'm Aryan Singh
-- :computer: Full stack (MERN) web/mobile app developer
-- :joystick: Game dev enthusiast
-- :mortar_board: IIIT-B ECE '23
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
