@@ -23,7 +23,8 @@
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=vim&logoColor=218C21)
 ![VS_Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-![Aryan's github stats](https://github-readme-stats-three-lake-53.vercel.app/api?username=zaryanz&count_private=true&show_icons=true&&theme=discord_old_blurple&include_all_commits=true)
+![Aryan's github stats](https://github-readme-stats-three-lake-53.vercel.app/api?username=zaryanz&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true)
+
 
 
 
